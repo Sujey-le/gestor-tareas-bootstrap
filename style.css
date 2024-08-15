@@ -118,3 +118,7 @@ body {
     color: #7f8c8d;
 }
 
+.tachado{
+    text-decoration: line-through;
+    color: #7f8c8d;
+}
